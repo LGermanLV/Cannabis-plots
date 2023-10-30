@@ -1,7 +1,3 @@
-
-</html>
-    <title>Cannabis Sativa Clustering</title>
-</head>
 <body>
     <!-- Layout Description Section -->
     <div>
