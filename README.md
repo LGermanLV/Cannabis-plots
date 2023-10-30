@@ -1,5 +1,3 @@
-</head>
-<body>
     <!-- Layout Description Section -->
     <div>
         <h1>Clustering of the Cannabis Sativa Literature with t-SNE and K-Means</h1>
