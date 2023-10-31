@@ -1,4 +1,4 @@
-
+<!-- Disable DOCTYPE declaration -->
 <!DOCTYPE html>
 <html>
 <head>
