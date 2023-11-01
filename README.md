@@ -38,22 +38,3 @@
     </div>
 </body>
 </html>
-<html>
-<head>
-    <title>Clusters Length</title>
-</head>
-<body>
-    <!-- Layout Description Section -->
-    <div>
-        <h1>Distribution of articles per year in clusters</h1>
-        <p>
-            These bar charts illustrate the distribution of articles per year in each cluster.
-        </p>
-    </div>
-    
-    <!-- Plot Section -->
-    <div>
-        <iframe src="dist_art_per_year_in_clusters.html" width="100%" height="600px"></iframe>
-    </div>
-</body>
-</html>
