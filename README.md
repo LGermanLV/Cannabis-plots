@@ -19,3 +19,21 @@
     </div>
 </body>
 </html>
+<html>
+<head>
+    <title>Clusters Length</title>
+</head>
+<body>
+    <!-- Layout Description Section -->
+    <div>
+        <p>
+            Pass the cursor over the bar corresponding to the cluster of interest to view the number of articles it contains.
+        </p>
+    </div>
+    
+    <!-- Plot Section -->
+    <div>
+        <iframe src="bar_fig_cluster_lengths.html" width="100%" height="600px"></iframe>
+    </div>
+</body>
+</html>
