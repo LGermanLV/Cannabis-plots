@@ -26,9 +26,9 @@
 <body>
     <!-- Layout Description Section -->
     <div>
-        <h1>Plot of clusters lengths</h1>
+        <h1>Plot of cluster lengths</h1>
         <p>
-            Pass the cursor over the bar corresponding to the cluster of interest to view the number of articles it contains.
+            Please move the cursor over the bar corresponding to the cluster of interest to view the number of articles it contains..
         </p>
     </div>
     
