@@ -28,13 +28,32 @@
     <div>
         <h1>Plot of cluster lengths</h1>
         <p>
-            Please move the cursor over the bar corresponding to the cluster of interest to view the number of articles it contains..
+            Please move the cursor over the bar corresponding to the cluster of interest to view the number of articles it contains.
         </p>
     </div>
     
     <!-- Plot Section -->
     <div>
         <iframe src="bar_fig_cluster_lengths.html" width="100%" height="600px"></iframe>
+    </div>
+</body>
+</html>
+<html>
+<head>
+    <title>Clusters Length</title>
+</head>
+<body>
+    <!-- Layout Description Section -->
+    <div>
+        <h1>Distribution of articles per year in clusters</h1>
+        <p>
+            These bar charts illustrate the distribution of articles per year in each cluster.
+        </p>
+    </div>
+    
+    <!-- Plot Section -->
+    <div>
+        <iframe src="dist_art_per_year_in_clusters.html" width="100%" height="600px"></iframe>
     </div>
 </body>
 </html>
