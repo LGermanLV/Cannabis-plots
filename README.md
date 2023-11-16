@@ -12,8 +12,6 @@
         <iframe src="scatter_plot.html" width="100%" height="600px"></iframe>
     </div>
 </body>
-</html>
-<html>
 <head>
     <title>Clusters Length</title>
 </head>
