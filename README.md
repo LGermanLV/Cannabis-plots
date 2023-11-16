@@ -12,11 +12,10 @@
     <div>
         <iframe src="scatter_plot.html" width="100%" height="600px"></iframe>
     </div>
-</body>
+<body>
 <head>
     <title>Clusters Length</title>
 </head>
-<body>
     <!-- Layout Description Section -->
     <div>
         <h1>Plot of cluster lengths</h1>
