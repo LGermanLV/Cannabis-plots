@@ -27,3 +27,18 @@
     <div>
         <iframe src="bar_fig_cluster_lengths.html" width="100%" height="600px"></iframe>
     </div>
+<head>
+    <title>Articles per year</title>
+</head> 
+     <!-- Layout Description Section -->
+    <div>
+        <h1>Plot of articles published per year</h1>
+        <p>
+            Pass the cursor over any bar to reveal the number of articles published per year associated with cannabis sativa.
+        </p>
+    </div>
+    
+    <!-- Plot Section -->
+    <div>
+        <iframe src="bar_fig_articles_per_year.html" width="100%" height="600px"></iframe>
+    </div>
